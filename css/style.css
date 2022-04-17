@@ -46,15 +46,18 @@ display: inline-block;
 	padding-right: 10px;
 }
 
+.boton-fijo{
 
+	width: 138px;
+}
 .ancho_tarjeta {
 
-	height:300px;
+	height:290px;
 	align-items: center;
 }
 
 .card	{
-	background-color: #ffffff96;
+	background-color: #3cd0df8f;
 }
 
 .accordion{
@@ -65,6 +68,13 @@ display: inline-block;
 	height: 120px;
 	width: 120px;
 	margin-top: 10px;
+}
+
+.img-halfed {
+
+	height: auto;
+	width: 150px;
+
 }
 
 .botonera li {
