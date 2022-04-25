@@ -21,7 +21,7 @@ body {
 
 .titulo-1{
 
-	color: #F16223;
+	color: #ff812d; /* #F16223 */
 }
 
 .imagen-center {
@@ -52,7 +52,7 @@ display: inline-block;
 }
 .ancho_tarjeta {
 
-	height:290px;
+	height:320px;
 	align-items: center;
 }
 
@@ -65,7 +65,7 @@ display: inline-block;
 
 .card-text{
 	color: white;
-	font-size: 1.2rem;
+	font-size: 0.9rem;
 }
 /*.accordion{
 	background-color: #ffffff96;
@@ -78,6 +78,13 @@ display: inline-block;
 .f_white{
 	background-color: white;
 }
+
+.fondo_naranja{
+	background: linear-gradient(45deg,#bd4300 0%,#ff812d 100%);
+	color: #ffe380;
+
+}
+
 .accordion-button{
 
 	background-color: #826d2f;
