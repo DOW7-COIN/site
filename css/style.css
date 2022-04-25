@@ -57,15 +57,31 @@ display: inline-block;
 }
 
 .card	{
-	background-color: #eabc41;/*  #3cd0df8f #daf1f3*/
+	background-color: #c5992ea8;/*  #3cd0df8f #daf1f3*/
+}
+.card-title{
+	color: white;
 }
 
-.accordion{
+.card-text{
+	color: white;
+	font-size: 1.2rem;
+}
+/*.accordion{
 	background-color: #ffffff96;
+}*/
+
+.accordion-item{
+
+	color:#c5992ea8 ;
+}
+.f_white{
+	background-color: white;
 }
 .accordion-button{
 
-	background-color: #eabc41;
+	background-color: #826d2f;
+	color: white;
 }
 .imagen_chica{
 
