@@ -57,11 +57,15 @@ display: inline-block;
 }
 
 .card	{
-	background-color:#daf1f3 ;/*  #3cd0df8f */
+	background-color: #eabc41;/*  #3cd0df8f #daf1f3*/
 }
 
 .accordion{
 	background-color: #ffffff96;
+}
+.accordion-button{
+
+	background-color: #eabc41;
 }
 .imagen_chica{
 
